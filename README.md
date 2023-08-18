@@ -1,5 +1,7 @@
 # CLIP-Guided RL
 
+## Donatas Vaiciukevičius, Dzvenymyra-Marta Yarish, Anton Zaliznyi, Nikita Fordui
+
 ### Blog post detailing our experiments and findings: https://medium.com/@vaiciu.donatas/clip-is-all-rl-needs-fdb30eedbab9
 
 ## Installation
